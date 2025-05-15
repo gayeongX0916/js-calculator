@@ -15,3 +15,5 @@ HTML, CSS, JavaScript만으로 간단한 계산기
 - HTML
 - CSS
 - JavaScript
+
+![image](https://github.com/user-attachments/assets/11e12fcc-4fb8-4bcf-abc7-df346811a909)
