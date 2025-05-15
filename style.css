@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  width: 200px;
+  padding: 20px;
+  font-weight: 600;
+}
+
+.cal-table {
+  border-collapse: collapse;
+  border: 2px solid #000;
+  width: 100%;
+  background-color: gainsboro;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+input {
+  border: none;
+  text-align: right;
+  background-color: gainsboro;
+}
+
+input:focus {
+  outline: none;
+}
+
+td {
+  padding: 5px 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cal-table-orange {
+  background-color: orange;
+  color: white;
+}
